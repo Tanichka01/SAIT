@@ -19,21 +19,6 @@ p {
 }
 
 
-/* Стилі для форм */
-input[type="text"], input[type="email"], textarea {
-    width: 100%;
-    padding: 8px;
-    margin-bottom: 10px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
-}
-
-/* Стилі для секцій */
-.section {
-    margin-bottom: 20px;
-}
-
 
 /* Стилі для картинок */
 img {
