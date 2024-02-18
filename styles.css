@@ -1,0 +1,44 @@
+/* Стилі для заголовків */
+h1 {
+    color: #333;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h2 {
+    color: #666;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Стилі для тексту */
+p {
+    color: #555;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+/* Стилі для форм */
+input[type="text"], input[type="email"], textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+/* Стилі для секцій */
+.section {
+    margin-bottom: 20px;
+}
+
+
+/* Стилі для картинок */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
