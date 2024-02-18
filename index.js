@@ -3,14 +3,14 @@ let content = document.getElementById("content");
 
 // Створюємо заголовок h1 для назви центру творчості
 let title = document.createElement("h1");
-title.textContent = "Будинок дитячої творчості";
+title.textContent = "БДЮТ - Будинок дитячої та юнацької творчості Христинівської міської ради Черкаської області";
 
 // Додаємо заголовок до елементу content
 content.appendChild(title);
 
 // Створюємо абзац з описом центру творчості
 let description = document.createElement("p");
-description.textContent = "Ласкаво просимо до нашого центру творчості, де діти можуть розвивати свою уяву та творчі здібності.";
+description.textContent = "БДЮТ - це місце де ваша дитина знайде своє захоплення. Зустріне справжніх друзів та однодумців. З користю буде проводити час та розвиватися";
 
 // Додаємо абзац до елементу content
 content.appendChild(description);
